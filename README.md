@@ -1,1 +1,1 @@
-# homework-task8
+This repository was created by Rahmatova Leyla. All of this tasks were not so complicated to do. At first I faced some problems with GitHub and VisualStudioCode, but I found out that it is not so important that my VisualStudioCode showed that I had errors when i tried to run codes. Programming task 8 was a little bit hard for me, but I will learn more about array topics and try to understand some moments which were complicated for me to do.
